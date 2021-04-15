@@ -22,4 +22,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           My name is $fullname,
-          echo Test and deploy your project using Github Actions.
+          echo ,Test and deploy your project using Github Actions.
